@@ -5,7 +5,7 @@
 
 Audit dei record DNS di posta elettronica per la prevenzione dello spoofing, del phishing e la conformità tecnica alle Linee Guida AgID e ACN.
 
-Sviluppato e gestito dalla divisione di sicurezza delle infrastrutture di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di sicurezza delle infrastrutture di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py azienda.it -selector mail -json
 Per controlli periodici e analisi avanzate tramite interfaccia grafica, utilizzare lo strumento ufficiale:
 
 * **Verificatore DMARC e Sicurezza Posta Elettronica**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Supporto e Consulenza Specialistica
 
-Per progetti di rafforzamento delle infrastrutture, difesa informatica e conformita in Italia, contattare gli specialisti di **TAVARDT Italia**.
+Per progetti di rafforzamento delle infrastrutture, difesa informatica e conformita in Italia, contattare gli specialisti di **TAVARDT**.
 
 ***
 
