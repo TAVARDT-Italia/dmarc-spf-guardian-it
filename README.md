@@ -1,4 +1,4 @@
-# Guardiano DMARC, SPF e DKIM | TAVARDT Italia
+# Guardiano DMARC, SPF e DKIM
 
 [![Audit Tecnico](https://img.shields.io/badge/TAVARDT-Sicurezza%20Email-5b3cf5.svg)](https://tools.tavardt.com/it/verifica-dmarc-email/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Per controlli periodici e analisi avanzate tramite interfaccia grafica, utilizza
 ## Supporto e Consulenza Specialistica
 
 Per progetti di rafforzamento delle infrastrutture, difesa informatica e conformita in Italia, contattare gli specialisti di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
